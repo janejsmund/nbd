@@ -1,0 +1,10 @@
+curl -i -X GET \
+  http://127.0.0.1:8098/buckets/s18040/keys/apple \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -d '{
+    "type": "apple",
+    "color": "red",
+    "smell": "apply",
+    "price": 0.7
+  }'

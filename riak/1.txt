@@ -1,0 +1,43 @@
+curl -i -X PUT \
+  http://127.0.0.1:8098/buckets/s18040/keys/apple \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -d '{
+    "type": "apple",
+    "color": "red",
+    "smell": "apply",
+    "price": 0.7
+  }'
+
+curl -i -X PUT \
+  http://127.0.0.1:8098/buckets/s18040/keys/pear \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -d '{
+    "type": "pear",
+    "color": "yellow",
+    "smell": "pearry",
+    "price": 1.27
+  }'
+
+curl -i -X PUT \
+  http://127.0.0.1:8098/buckets/s18040/keys/orange \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -d '{
+    "type": "orange",
+    "color": "orange",
+    "smell": "orange",
+    "price": 2.3
+  }'
+
+curl -i -X PUT \
+  http://127.0.0.1:8098/buckets/s18040/keys/fruit \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -d '{
+    "type": "some generic fruit",
+    "color": "blue",
+    "smell": "sweet",
+    "price": 12.78
+  }'

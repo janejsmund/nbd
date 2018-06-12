@@ -1,0 +1,122 @@
+[
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "James Marshall"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lilly Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lana Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Tom Tykwer"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lana Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lilly Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lana Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lilly Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lana Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  },
+  {
+    "keys": [
+      "directors.name"
+    ],
+    "length": 1,
+    "_fields": [
+      "Lilly Wachowski"
+    ],
+    "_fieldLookup": {
+      "directors.name": 0
+    }
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "keys": [
+      "nodes(path)"
+    ],
+    "length": 1,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 172,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Darjeeling"
+          }
+        },
+        {
+          "identity": {
+            "low": 171,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Rimbik"
+          }
+        },
+        {
+          "identity": {
+            "low": 173,
+            "high": 0
+          },
+          "labels": [
+            "village"
+          ],
+          "properties": {
+            "name": "BhikeBhanja"
+          }
+        },
+        {
+          "identity": {
+            "low": 174,
+            "high": 0
+          },
+          "labels": [
+            "peak"
+          ],
+          "properties": {
+            "name": "Sandakphu",
+            "altitude": "12400 ft"
+          }
+        }
+      ]
+    ],
+    "_fieldLookup": {
+      "nodes(path)": 0
+    }
+  },
+  {
+    "keys": [
+      "nodes(path)"
+    ],
+    "length": 1,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 172,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Darjeeling"
+          }
+        },
+        {
+          "identity": {
+            "low": 171,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Rimbik"
+          }
+        },
+        {
+          "identity": {
+            "low": 173,
+            "high": 0
+          },
+          "labels": [
+            "village"
+          ],
+          "properties": {
+            "name": "BhikeBhanja"
+          }
+        },
+        {
+          "identity": {
+            "low": 174,
+            "high": 0
+          },
+          "labels": [
+            "peak"
+          ],
+          "properties": {
+            "name": "Sandakphu",
+            "altitude": "12400 ft"
+          }
+        }
+      ]
+    ],
+    "_fieldLookup": {
+      "nodes(path)": 0
+    }
+  },
+  {
+    "keys": [
+      "nodes(path)"
+    ],
+    "length": 1,
+    "_fields": [
+      [
+        {
+          "identity": {
+            "low": 172,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Darjeeling"
+          }
+        },
+        {
+          "identity": {
+            "low": 171,
+            "high": 0
+          },
+          "labels": [
+            "town"
+          ],
+          "properties": {
+            "name": "Rimbik"
+          }
+        },
+        {
+          "identity": {
+            "low": 173,
+            "high": 0
+          },
+          "labels": [
+            "village"
+          ],
+          "properties": {
+            "name": "BhikeBhanja"
+          }
+        },
+        {
+          "identity": {
+            "low": 174,
+            "high": 0
+          },
+          "labels": [
+            "peak"
+          ],
+          "properties": {
+            "name": "Sandakphu",
+            "altitude": "12400 ft"
+          }
+        }
+      ]
+    ],
+    "_fieldLookup": {
+      "nodes(path)": 0
+    }
+  }
+]

@@ -1,0 +1,1838 @@
+[
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Christina Ricci",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Sam Rockwell",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Rain",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "J.T. Walsh",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Rita Wilson",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Greg Kinnear",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "John Goodman",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Noah Wyle",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Ethan Hawke",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Hugo Weaving",
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Val Kilmer",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Cuba Gooding Jr.",
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Richard Harris",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Paul Bettany",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Meg Ryan",
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Takeshi Kitano",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Carrie-Anne Moss",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Laurence Fishburne",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Marshall Bell",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Oliver Platt",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Susan Sarandon",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Ed Harris",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Emil Eifrem",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Tom Cruise",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Helen Hunt",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Kevin Bacon",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "John Cusack",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Clint Eastwood",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Kelly Preston",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Jay Mohr",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Werner Herzog",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Patricia Clarkson",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Bonnie Hunt",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Orlando Jones",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Natalie Portman",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Gary Sinise",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "James Marshall",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Regina King",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Kevin Pollak",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Steve Zahn",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Tom Hanks",
+      {
+        "low": 12,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Jack Nicholson",
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Stephen Rea",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Ian McKellen",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Bruno Kirby",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Demi Moore",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Matthew Fox",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Liv Tyler",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Jim Broadbent",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Bill Pullman",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Jonathan Lipnicki",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Rick Yune",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Tom Skerritt",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Corey Feldman",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Julia Roberts",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Rosie O'Donnell",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Halle Berry",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Dina Meyer",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Bill Paxton",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Danny DeVito",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Nathan Lane",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Geena Davis",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "James Cromwell",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Michael Clarke Duncan",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Aaron Sorkin",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Victor Garber",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Gene Hackman",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Charlize Theron",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Zach Grenier",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Ben Miles",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Al Pacino",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Emile Hirsch",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "River Phoenix",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Kiefer Sutherland",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Philip Seymour Hoffman",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Lori Petty",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Madonna",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Renee Zellweger",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Annabella Sciorra",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Keanu Reeves",
+      {
+        "low": 7,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Robin Williams",
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Dave Chappelle",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Max von Sydow",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Frank Langella",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Audrey Tautou",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Jerry O'Connell",
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Christopher Guest",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Parker Posey",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Michael Sheen",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Brooke Langton",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Wil Wheaton",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Billy Crystal",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Diane Keaton",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Carrie Fisher",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Anthony Edwards",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "David Morse",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Naomie Harris",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "John Hurt",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Ice-T",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Kelly McGillis",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "Christian Bale",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "count(films)"
+    ],
+    "length": 2,
+    "_fields": [
+      "John C. Reilly",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "count(films)": 1
+    }
+  }
+]

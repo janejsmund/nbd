@@ -1,0 +1,140 @@
+[
+  {
+    "keys": [
+      "m",
+      "p"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 180,
+          "high": 0
+        },
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "title": "Captain America: The First Avenger",
+          "tagline": "Do you want to kill Nazis?",
+          "released": {
+            "low": 2011,
+            "high": 0
+          }
+        }
+      },
+      {
+        "identity": {
+          "low": 185,
+          "high": 0
+        },
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "Hugo Weaving",
+          "born": {
+            "low": 1967,
+            "high": 0
+          }
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "m": 0,
+      "p": 1
+    }
+  },
+  {
+    "keys": [
+      "m",
+      "p"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 180,
+          "high": 0
+        },
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "title": "Captain America: The First Avenger",
+          "tagline": "Do you want to kill Nazis?",
+          "released": {
+            "low": 2011,
+            "high": 0
+          }
+        }
+      },
+      {
+        "identity": {
+          "low": 184,
+          "high": 0
+        },
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "Chris Evans",
+          "born": {
+            "low": 1960,
+            "high": 0
+          }
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "m": 0,
+      "p": 1
+    }
+  },
+  {
+    "keys": [
+      "m",
+      "p"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 180,
+          "high": 0
+        },
+        "labels": [
+          "Movie"
+        ],
+        "properties": {
+          "title": "Captain America: The First Avenger",
+          "tagline": "Do you want to kill Nazis?",
+          "released": {
+            "low": 2011,
+            "high": 0
+          }
+        }
+      },
+      {
+        "identity": {
+          "low": 186,
+          "high": 0
+        },
+        "labels": [
+          "Person"
+        ],
+        "properties": {
+          "name": "Samuel L. Jackson",
+          "born": {
+            "low": 1965,
+            "high": 0
+          }
+        }
+      }
+    ],
+    "_fieldLookup": {
+      "m": 0,
+      "p": 1
+    }
+  }
+]

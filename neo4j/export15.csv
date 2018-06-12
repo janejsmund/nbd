@@ -1,0 +1,9 @@
+﻿"coalesce(coalesce(a1, []), coalesce(a2, []), coalesce(a3, []))"
+{name:FAT}
+{name:ABQ}
+{name:SMF}
+{name:TUS}
+{name:LAS}
+{name:BOS}
+{name:EWR}
+{name:IAH}

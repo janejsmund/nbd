@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftoujJoNEUpkzGNlSKqefIUvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s18040>; rel="up"
+Last-Modified: Mon, 04 Jun 2018 23:01:54 GMT
+ETag: "6lvgaOaC4yT4HpmJ5dxPj3"
+Date: Mon, 04 Jun 2018 23:07:35 GMT
+Content-Type: application/json
+Content-Length: 85
+
+{
+    "type": "apple",
+    "color": "red",
+    "smell": "apply",
+    "price": 0.7
+  }

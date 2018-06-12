@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/ftquO7gSyGbKYEpkzGNlKGqYfIUvCwA=
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s18040>; rel="up"
+Last-Modified: Mon, 04 Jun 2018 23:23:30 GMT
+ETag: "5jRr9poOcQWvlPJpRdVEAV"
+Date: Mon, 04 Jun 2018 23:25:47 GMT
+Content-Type: application/json
+Content-Length: 36
+
+{
+    "type": "some generic fruit"
+}

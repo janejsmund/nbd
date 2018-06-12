@@ -1,0 +1,1452 @@
+[
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 177,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "ORD"
+        }
+      },
+      {
+        "low": 48,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 218,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "DTW"
+        }
+      },
+      {
+        "low": 25,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 172,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "IAH"
+        }
+      },
+      {
+        "low": 23,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 175,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "LAX"
+        }
+      },
+      {
+        "low": 22,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 187,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "DEN"
+        }
+      },
+      {
+        "low": 18,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 181,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SFO"
+        }
+      },
+      {
+        "low": 14,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 217,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "AZO"
+        }
+      },
+      {
+        "low": 13,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 182,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "IAD"
+        }
+      },
+      {
+        "low": 12,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 206,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "BNA"
+        }
+      },
+      {
+        "low": 12,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 178,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "MSP"
+        }
+      },
+      {
+        "low": 9,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 219,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "MOT"
+        }
+      },
+      {
+        "low": 8,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 171,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "EWR"
+        }
+      },
+      {
+        "low": 7,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 193,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "HNL"
+        }
+      },
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 189,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SLC"
+        }
+      },
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 214,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "FSD"
+        }
+      },
+      {
+        "low": 5,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 213,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "DLH"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 174,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "MCO"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 186,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "BOS"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 205,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "BHM"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 211,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "FAT"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 194,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SAN"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 210,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "ABQ"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 180,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "PDX"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 188,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "DFW"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 207,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "CVG"
+        }
+      },
+      {
+        "low": 4,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 0,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SEA"
+        }
+      },
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 216,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SBN"
+        }
+      },
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 199,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "PHX"
+        }
+      },
+      {
+        "low": 3,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 192,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SNA"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 196,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "ATL"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 197,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "CMH"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 212,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "TUS"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 201,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "LGA"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 198,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SJC"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 195,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "LAS"
+        }
+      },
+      {
+        "low": 2,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 179,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "KOA"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 209,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "MIA"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 183,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SMF"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 200,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "BIL"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 204,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "DCA"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 191,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "MSN"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 208,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "PBI"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 190,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "MCI"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 215,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "MOB"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 185,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "IND"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 202,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "ROC"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 176,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "FLL"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 184,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "RIC"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 203,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "CLT"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  },
+  {
+    "keys": [
+      "a",
+      "count(o)"
+    ],
+    "length": 2,
+    "_fields": [
+      {
+        "identity": {
+          "low": 173,
+          "high": 0
+        },
+        "labels": [
+          "Airport"
+        ],
+        "properties": {
+          "name": "SAT"
+        }
+      },
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "a": 0,
+      "count(o)": 1
+    }
+  }
+]

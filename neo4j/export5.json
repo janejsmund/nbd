@@ -1,0 +1,152 @@
+[
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Lilly Wachowski",
+      "Speed Racer"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Lana Wachowski",
+      "V for Vendetta"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Jim Cash",
+      "Top Gun"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "David Mitchell",
+      "Cloud Atlas"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Lilly Wachowski",
+      "V for Vendetta"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Aaron Sorkin",
+      "A Few Good Men"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Cameron Crowe",
+      "Jerry Maguire"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Nancy Meyers",
+      "Something's Gotta Give"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Lana Wachowski",
+      "Speed Racer"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  },
+  {
+    "keys": [
+      "person.name",
+      "movie.title"
+    ],
+    "length": 2,
+    "_fields": [
+      "Nora Ephron",
+      "When Harry Met Sally"
+    ],
+    "_fieldLookup": {
+      "person.name": 0,
+      "movie.title": 1
+    }
+  }
+]
